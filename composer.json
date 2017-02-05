@@ -1,6 +1,6 @@
 {
   "name": "nuovecode/magento2-require-stuff",
-  "description": "Instagram stream for Magento2",
+  "description": "Common tasks with RequireJS and Magento2",
   "license": "Open Software License (OSL)",
   "authors": [
     {
