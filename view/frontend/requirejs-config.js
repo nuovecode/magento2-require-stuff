@@ -1,5 +1,3 @@
-alert('HEIL!')
-
 var config = {
     
 };
